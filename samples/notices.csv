@@ -1,0 +1,4 @@
+notice,issuer,model,serial_from,serial_to,firmware,revision,state
+N-7,Maker-A,RB-2,100,180,2.x,1,active
+N-7,Maker-A,RB-2,120,160,2.1,2,active
+N-8,Reg-B,RC-4,,,1.8,1,withdrawn

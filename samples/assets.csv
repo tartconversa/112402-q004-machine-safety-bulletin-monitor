@@ -1,0 +1,4 @@
+asset,customer,model,serial,firmware,site
+A1,F-11,RB-2,115,2.0,East
+A2,F-11,RB-2,145,2.1,West
+A3,F-12,RC-4,901,1.8,North

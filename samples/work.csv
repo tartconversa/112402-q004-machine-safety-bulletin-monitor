@@ -1,0 +1,4 @@
+case_id,asset,notice,action,state,completed
+W1,A1,N-7,inspect,open,
+W2,A2,N-7,upgrade,closed,2026-10-08
+W3,A3,N-8,inspect,closed,2026-10-01
