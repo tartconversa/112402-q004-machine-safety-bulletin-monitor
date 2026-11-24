@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "robotnotice"
+version = "1.0.0"
+description = "设备安全通告采集与适用批次处置系统（仅依赖 Python 标准库）"
+requires-python = ">=3.10"
+readme = "README.md"
+
+[tool.setuptools]
+packages = ["robotnotice"]
+
+[project.scripts]
+robotnotice = "robotnotice.cli:main"

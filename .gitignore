@@ -6,7 +6,12 @@ node_modules/
 venv/
 dist/
 build/
+*.egg-info/
 coverage/
 __pycache__/
 *.py[cod]
 .DS_Store
+data/
+*.db
+*.db-wal
+*.db-shm

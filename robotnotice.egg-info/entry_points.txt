@@ -1,0 +1,2 @@
+[console_scripts]
+robotnotice = robotnotice.cli:main
